@@ -37,8 +37,15 @@ $dbuser = 'YOUR_USER_NAME';
 $dbpw = 'YOUR_PASSWORD';
 ```
 
+Running the analysis
+--------------------
+
 The algorithm can be started with the file ``data-aggregation-idw.php``.
 
+Display the results
+-------------------
+
+The files ``community_speed_difference.php`` and ``community_speed_difference2.php`` (later version) can be placed in the root of the enviroCar-www project to display the analysis results of an analysis of the **difference in speed** between the actually driven speed and the maximum allowed speed.
 
 Todo/Improvements
 -----------------
